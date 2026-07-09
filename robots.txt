@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nadeem757.github.io/prime-home-services/sitemap.xml
